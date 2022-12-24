@@ -33,6 +33,14 @@
     "type": "git",
     "url": "git+https://github.com/stratoss/rn-pdf-reader-js.git"
   },
+  "peerDependencies": {
+    "expo": "~45.0.0",
+    "expo-constants": "^13.1.1",
+    "expo-file-system": "^14.0.0",
+    "react": "17.0.2",
+    "react-native": "*",
+    "react-native-webview": "^11.23.1"
+  },
   "dependencies": {
     "buffer": "5.1.0",
     "csstype": "2.6.8",
