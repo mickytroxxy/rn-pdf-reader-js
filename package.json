@@ -37,29 +37,29 @@
     "expo": "~47.0.9",
     "expo-constants": "^13.1.1",
     "expo-file-system": "^14.0.0",
-    "react": "17.0.2",
+    "react": "18.1.0",
     "react-native": "*",
     "react-native-webview": "^11.23.1"
   },
   "dependencies": {
-    "buffer": "5.1.0",
-    "csstype": "2.6.8",
-    "js-base64": "2.4.5"
+    "buffer": "^5.1.0",
+    "csstype": "^2.6.8",
+    "js-base64": "^2.4.5"
   },
   "devDependencies": {
     "@types/js-base64": "^2.3.1",
     "@types/react": "^16.9.17",
-    "@types/react-dom": "16.9.4",
-    "@types/react-native": "0.60.28",
+    "@types/react-dom": "^16.9.4",
+    "@types/react-native": "^0.60.28",
     "babel-preset-expo": "^8.0.0",
-    "crypto": "1.0.1",
+    "crypto": "^1.0.1",
     "expo": "^36.0.2",
     "expo-constants": "~8.0.0",
     "expo-file-system": "~8.0.0",
     "json": "^9.0.6",
     "react": "16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.1.tar.gz",
-    "react-native-webview": "7.4.3",
+    "react-native-webview": "^11.4.3",
     "tslint": "^5.20.1",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "3.7.4"
