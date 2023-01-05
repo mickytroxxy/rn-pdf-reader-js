@@ -34,7 +34,7 @@
     "url": "git+https://github.com/stratoss/rn-pdf-reader-js.git"
   },
   "peerDependencies": {
-    "expo": "~47.0.9",
+    "expo": "~45.0.0",
     "expo-constants": "^13.1.1",
     "expo-file-system": "^14.0.0",
     "react": "18.1.0",
